@@ -2,7 +2,7 @@
 technologies, frameworks
 
 ## frameworks
-[jscraph](https://jsxgraph.uni-bayreuth.de/wp/) 
+* [jscraph](https://jsxgraph.uni-bayreuth.de/wp/) 
 
 ## presentation
 * [reveal.js](https://revealjs.com/#/)  
